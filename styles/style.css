@@ -1,0 +1,63 @@
+body{
+    font-size: 10pt !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 850px;
+    margin: auto;
+    color: #444;
+}
+
+.top-bar {
+    border-radius: 4px;
+    background: #ff159d;
+    color: white;
+}
+
+.top-bar a{
+    text-decoration: none;
+    color: white;
+}
+
+.upvote-container {
+    color: #AAA;
+    flex: 0 0 3em;
+    padding-top: 2px;
+}
+
+.upvote-button{
+    font-size: 10pt;
+    display: block;
+}
+
+.upvote-number {
+    display: block;
+    font-size: 8pt;
+}
+
+.post-title{
+    font-size: 12pt;
+    text-decoration: none;
+}
+
+a .post-title {
+    font-size: 12pt;
+    text-decoration: none;
+    color: #0094ff;
+}
+
+.post-details{
+    font-size: 10pt;
+    color: #808080;
+}
+
+.group-0{
+    color: #14aa12;
+}
+
+.comment-container{
+    border-left: 1px dotted #EEE;
+}
+
+.comments-button{
+    color: inherit;
+    text-decoration: none;
+}
